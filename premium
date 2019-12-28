@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,AFN Family 
+http://iptv.am000.tv:8000/live/11223355/11223355/2457.m3u8
+#EXTINF:0,AFN Drama
+http://iptv.am000.tv:8000/live/11223355/11223355/2458.m3u8
+#EXTINF:0,SKY CINEMA Premiere 
+http://iptv.am000.tv:8000/live/11223355/11223355/4034.m3u8
+#EXTINF:0,SKY CINEMA Thriller 
+http://iptv.am000.tv:8000/live/11223355/11223355/4036.m3u8
+#EXTINF:0,SKY CINEMA SciFi 
+http://iptv.am000.tv:8000/live/11223355/11223355/4037.m3u8
+#EXTINF:0,SKy CINEMA Select
+http://iptv.am000.tv:8000/live/11223355/11223355/4038.m3u8
